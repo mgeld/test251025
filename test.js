@@ -7,11 +7,12 @@ if (login === 'adkkd') {
     isAdmin = false
 }
 
-if (login === 'admin') {
-    isAdmin = true
-} else {
-    isAdmin = false
-}
+sndnsnd
+
+sdmsmd
+
+
+
 
 switch (login) {
     case 'admin':
